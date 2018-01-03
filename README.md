@@ -12,13 +12,10 @@ each turn, given the dialogue acts.
 
 The number of dialogues in each dataset are listed below:
 
-| Dataset      | Slots                          | Train | Dev | Test |
-| ------------ | ------------------------------ | ----- | --- | ---- |
-| Sim-R        | price\_range, location,        | 1116  | 349 | 775  |
-: (Restaurant) : restaurant\_name,<br>category, :       :     :      :
-:              : num\_people, date, time        :       :     :      :
-| Sim-M        | theatre\_name, movie, date,    | 384   | 120 | 264  |
-: (Movie)      : time,<br>num\_people           :       :     :      :
+| Dataset            | Slots                                                                          | Train | Dev | Test |
+| ------------------ | ------------------------------------------------------------------------------ | ----- | --- | ---- |
+| Sim-R (Restaurant) | price\_range, location, restaurant\_name,<br>category, num\_people, date, time | 1116  | 349 | 775  |
+| Sim-M (Movie)      | theatre\_name, movie, date, time,<br>num\_people                               | 384   | 120 | 264  |
 
 **The datasets are provided "AS IS" without any warranty, express or implied.
 Google disclaims all liability for any damages, direct or indirect, resulting
