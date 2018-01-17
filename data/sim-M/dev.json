@@ -12926,9 +12926,9 @@
         "user_utterance": {
           "slots": [
             {
-              "exclusive_end": 6,
+              "exclusive_end": 4,
               "slot": "date",
-              "start": 5
+              "start": 3
             }
           ],
           "text": "please look for friday .",

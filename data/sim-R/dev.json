@@ -55213,9 +55213,9 @@
         "user_utterance": {
           "slots": [
             {
-              "exclusive_end": 10,
+              "exclusive_end": 9,
               "slot": "restaurant_name",
-              "start": 9
+              "start": 8
             }
           ],
           "text": "yeah , i would like to eat at pompei .",

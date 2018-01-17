@@ -89038,9 +89038,9 @@
         "user_utterance": {
           "slots": [
             {
-              "exclusive_end": 7,
+              "exclusive_end": 6,
               "slot": "time",
-              "start": 5
+              "start": 4
             }
           ],
           "text": "no . what about 6 pm ?",
