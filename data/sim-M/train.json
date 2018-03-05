@@ -2298,7 +2298,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -2361,7 +2361,7 @@
               "start": 7
             }
           ],
-          "text": "how about 8:00 pm for wednesday at amc eastridge 15",
+          "text": "how about 8:00 pm for wednesday for 12 angry men",
           "tokens": [
             "how",
             "about",
@@ -2369,10 +2369,10 @@
             "pm",
             "for",
             "wednesday",
-            "at",
-            "amc",
-            "eastridge",
-            "15"
+            "for",
+            "12",
+            "angry",
+            "men"
           ]
         }
       },
@@ -2396,7 +2396,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -2520,7 +2520,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -2567,11 +2567,11 @@
               "start": 3
             }
           ],
-          "text": "amc eastridge 15 tomorrow .",
+          "text": "12 angry men tomorrow .",
           "tokens": [
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "tomorrow",
             "."
           ]
@@ -2597,7 +2597,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -2663,7 +2663,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -2675,7 +2675,7 @@
           {
             "slot": "movie",
             "type": "NOTIFY_SUCCESS",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "time",
@@ -2721,7 +2721,7 @@
               "start": 18
             }
           ],
-          "text": "your purchase is confirmed for 3 tickets for amc eastridge 15 at cinelux plaza theatre at 10:00 pm march 08 .",
+          "text": "your purchase is confirmed for 3 tickets for 12 angry men at cinelux plaza theatre at 10:00 pm march 08 .",
           "tokens": [
             "your",
             "purchase",
@@ -2731,9 +2731,9 @@
             "3",
             "tickets",
             "for",
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "at",
             "cinelux",
             "plaza",
@@ -2836,7 +2836,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -2883,14 +2883,14 @@
               "start": 12
             }
           ],
-          "text": "the movie is amc eastridge 15 and the number of tickets is 6 .",
+          "text": "the movie is 12 angry men and the number of tickets is 6 .",
           "tokens": [
             "the",
             "movie",
             "is",
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "and",
             "the",
             "number",
@@ -2918,7 +2918,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -2986,7 +2986,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -3089,7 +3089,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -3134,11 +3134,11 @@
               "start": 4
             }
           ],
-          "text": "amc eastridge 15 at 8:00 pm",
+          "text": "12 angry men at 8:00 pm",
           "tokens": [
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "at",
             "8:00",
             "pm"
@@ -3165,7 +3165,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -3243,7 +3243,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -3344,7 +3344,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -3393,11 +3393,11 @@
               "start": 4
             }
           ],
-          "text": "amc eastridge 15 at 8:00 pm",
+          "text": "12 angry men at 8:00 pm",
           "tokens": [
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "at",
             "8:00",
             "pm"
@@ -3420,7 +3420,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -3502,7 +3502,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -3623,7 +3623,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -3674,14 +3674,14 @@
               "start": 12
             }
           ],
-          "text": "the movie is amc eastridge 15 and the number of tickets is 6 .",
+          "text": "the movie is 12 angry men and the number of tickets is 6 .",
           "tokens": [
             "the",
             "movie",
             "is",
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "and",
             "the",
             "number",
@@ -3709,7 +3709,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -3773,7 +3773,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           },
           {
             "slot": "theatre_name",
@@ -3896,7 +3896,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -3953,7 +3953,7 @@
               "start": 8
             }
           ],
-          "text": "6 tickets for the 6:00 pm showing for amc eastridge 15 .",
+          "text": "6 tickets for the 6:00 pm showing for 12 angry men .",
           "tokens": [
             "6",
             "tickets",
@@ -3963,9 +3963,9 @@
             "pm",
             "showing",
             "for",
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "."
           ]
         }
@@ -3990,7 +3990,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -4055,7 +4055,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -4082,7 +4082,7 @@
           {
             "slot": "movie",
             "type": "NOTIFY_SUCCESS",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_utterance": {
@@ -4113,7 +4113,7 @@
               "start": 16
             }
           ],
-          "text": "ok , 6 tickets for the 6:00 pm showing of amc eastridge 15 march 07 at century cinemas 16 have been purchased .",
+          "text": "ok , 6 tickets for the 6:00 pm showing of 12 angry men march 07 at century cinemas 16 have been purchased .",
           "tokens": [
             "ok",
             ",",
@@ -4125,9 +4125,9 @@
             "pm",
             "showing",
             "of",
-            "amc",
-            "eastridge",
-            "15",
+            "12",
+            "angry",
+            "men",
             "march",
             "07",
             "at",
@@ -4231,7 +4231,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [
@@ -4290,7 +4290,7 @@
               "start": 7
             }
           ],
-          "text": "how about 8:00 pm for wednesday at amc eastridge 15",
+          "text": "how about 8:00 pm for wednesday for 12 angry men",
           "tokens": [
             "how",
             "about",
@@ -4298,10 +4298,10 @@
             "pm",
             "for",
             "wednesday",
-            "at",
-            "amc",
-            "eastridge",
-            "15"
+            "for",
+            "12",
+            "angry",
+            "men"
           ]
         }
       },
@@ -4325,7 +4325,7 @@
           },
           {
             "slot": "movie",
-            "value": "amc eastridge 15"
+            "value": "12 angry men"
           }
         ],
         "system_acts": [

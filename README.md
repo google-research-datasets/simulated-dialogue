@@ -1,21 +1,35 @@
 # Simulated Dialogue
 
-## About
+## Machines Talking To Machines (M2M)
 
-These datasets consist of conversations between an agent and a user. These
-conversations correspond to task oriented dialogues related to restaurants or
-movies and are generated using a dialogue simulator. The simulator generates the
-dialogue acts containing the act type and associated arguments for user and
-system and the dialogue state for each turn of the conversation. Then,
-crowdworkers are asked to generate natural language utterances corresponding to
-each turn, given the dialogue acts.
+We present datasets of conversations between an agent and a simulated user.
+These conversations are collected using our M2M framework that combines dialogue
+self-play and crowd sourcing to exhaustively generate dialogues. The dialogue
+self-play step generates dialogue outlines consisting of the semantic frames for
+each turn of the dialogue. The crowd sourcing step provides natural language
+realizations for each dialogue turn. More details are available in [this
+paper](https://arxiv.org/abs/1801.04871). Please cite the paper if you use or
+discuss these datasets in your work:
 
-The number of dialogues in each dataset are listed below:
+```shell
+@article{shah2018building,
+  title={Building a Conversational Agent Overnight with Dialogue Self-Play},
+  author={Shah, Pararth and Hakkani-T{\"u}r, Dilek and T{\"u}r, Gokhan and Rastogi, Abhinav and Bapna, Ankur and Nayak, Neha and Heck, Larry},
+  journal={arXiv preprint arXiv:1801.04871},
+  year={2018}
+}
+```
 
-| Dataset            | Slots                                                                                        | Train | Dev | Test |
-| ------------------ | -------------------------------------------------------------------------------------------- | ----- | --- | ---- |
-| Sim-R (Restaurant) | price\_range, location, restaurant\_name,<br>category, num\_people, date, time, rating, meal | 1116  | 349 | 775  |
-| Sim-M (Movie)      | theatre\_name, movie, date, time,<br>num\_tickets                                            | 384   | 120 | 264  |
+## Restaurants and Movies
+
+We are releasing two datasets containing dialogues for booking a restaurant
+table and buying a movie ticket. The number of dialogues in each dataset are
+listed below:
+
+| Dataset            | Slots                                                                          | Train | Dev | Test |
+| ------------------ | ------------------------------------------------------------------------------ | ----- | --- | ---- |
+| Sim-R (Restaurant) | price\_range, location, restaurant\_name,<br>category, num\_people, date, time | 1116  | 349 | 775  |
+| Sim-M (Movie)      | theatre\_name, movie, date, time,<br>num\_people                               | 384   | 120 | 264  |
 
 **The datasets are provided "AS IS" without any warranty, express or implied.
 Google disclaims all liability for any damages, direct or indirect, resulting
