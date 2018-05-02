@@ -92204,7 +92204,7 @@
               "start": 7
             }
           ],
-          "text": "your tickets for the accountant tonight at shoreline theater have been purchased .",
+          "text": "your tickets for the accountant tonight at shoreline at 7:15 theater have been purchased .",
           "tokens": [
             "your",
             "tickets",
@@ -101758,7 +101758,7 @@
               "start": 16
             },
             {
-              "exclusive_end": 29,
+              "exclusive_end": 19,
               "slot": "theatre_name",
               "start": 18
             }
