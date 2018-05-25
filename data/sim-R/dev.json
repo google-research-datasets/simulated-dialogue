@@ -6375,9 +6375,11 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "what's your price range , your preferred cuisine , and your location ?",
+          "text": "what ' s your price range , your preferred cuisine , and your location ?",
           "tokens": [
-            "what's",
+            "what",
+            "'",
+            "s",
             "your",
             "price",
             "range",
@@ -12300,7 +12302,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "what kind of food do you want ? and what rating?",
+          "text": "what kind of food do you want ? and what rating ?",
           "tokens": [
             "what",
             "kind",
@@ -12312,7 +12314,8 @@
             "?",
             "and",
             "what",
-            "rating?"
+            "rating",
+            "?"
           ]
         },
         "user_acts": [
@@ -22578,12 +22581,13 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "what type of food, price and rating are you looking for ?",
+          "text": "what type of food , price and rating are you looking for ?",
           "tokens": [
             "what",
             "type",
             "of",
             "food",
+            ",",
             "price",
             "and",
             "rating",
@@ -50241,15 +50245,16 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "i ' m sorry i wont ' be able to book the table for you .",
+          "text": "i ' m sorry i won ' t be able to book the table for you .",
           "tokens": [
             "i",
             "'",
             "m",
             "sorry",
             "i",
-            "wont",
+            "won",
             "'",
+            "t",
             "be",
             "able",
             "to",
@@ -83950,7 +83955,7 @@
               "start": 5
             }
           ],
-          "text": "i found a restaurant named pepper in mountain view .",
+          "text": "i found a restaurant named pepper .",
           "tokens": [
             "i",
             "found",
@@ -83958,9 +83963,6 @@
             "restaurant",
             "named",
             "pepper",
-            "in",
-            "mountain",
-            "view",
             "."
           ]
         },
@@ -98313,7 +98315,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "for what type of food and mealtime?",
+          "text": "for what type of food and mealtime ?",
           "tokens": [
             "for",
             "what",
@@ -98321,7 +98323,8 @@
             "of",
             "food",
             "and",
-            "mealtime?"
+            "mealtime",
+            "?"
           ]
         },
         "user_acts": [
