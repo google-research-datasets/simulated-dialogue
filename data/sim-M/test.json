@@ -1189,7 +1189,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "how many tickets do you need and what theater do you want to go to?",
+          "text": "how many tickets do you need and what theater do you want to go to ?",
           "tokens": [
             "how",
             "many",
@@ -1205,7 +1205,8 @@
             "want",
             "to",
             "go",
-            "to?"
+            "to",
+            "?"
           ]
         },
         "user_acts": [
@@ -8284,7 +8285,7 @@
               "start": 27
             }
           ],
-          "text": "i ' m sorry , there are no tickets for a 12 pm movie but there are tickets available for the 7.30 pm , 8 pm or 8.30 pm showing . would you like one of  those options ?",
+          "text": "i ' m sorry , there are no tickets for a 12 pm movie but there are tickets available for the 7.30 pm , 8 pm or 8.30 pm showing . would you like one of those options ?",
           "tokens": [
             "i",
             "'",
@@ -8322,7 +8323,9 @@
             "like",
             "one",
             "of",
-            " those options ?"
+            "those",
+            "options",
+            "?"
           ]
         },
         "user_acts": [
@@ -29632,14 +29635,15 @@
               "start": 0
             }
           ],
-          "text": "8:00 pm is the correct time.",
+          "text": "8:00 pm is the correct time .",
           "tokens": [
             "8:00",
             "pm",
             "is",
             "the",
             "correct",
-            "time."
+            "time",
+            "."
           ]
         }
       },
@@ -46957,10 +46961,11 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "how many, for what movie and what date ?",
+          "text": "how many , for what movie and what date ?",
           "tokens": [
             "how",
-            "many,",
+            "many",
+            ",",
             "for",
             "what",
             "movie",
@@ -54936,7 +54941,7 @@
         ],
         "user_utterance": {
           "slots": [],
-          "text": "thanks ! ",
+          "text": "thanks !",
           "tokens": [
             "thanks",
             "!"
@@ -58217,11 +58222,12 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "for which movie, what date and showing , and how many people are going ?",
+          "text": "for which movie , what date and showing , and how many people are going ?",
           "tokens": [
             "for",
             "which",
-            "movie,",
+            "movie",
+            ",",
             "what",
             "date",
             "and",
@@ -63760,7 +63766,7 @@
               "start": 25
             }
           ],
-          "text": "all right , you ' ve got your 6 movie tickets on march 07 at 6:00 pm for the movie sahasam swasaga sagipo at the century 20 great mall confirmed.",
+          "text": "all right , you ' ve got your 6 movie tickets on march 07 at 6:00 pm for the movie sahasam swasaga sagipo at the century 20 great mall confirmed .",
           "tokens": [
             "all",
             "right",
@@ -63791,7 +63797,8 @@
             "20",
             "great",
             "mall",
-            "confirmed."
+            "confirmed",
+            "."
           ]
         },
         "user_acts": [
@@ -74015,10 +74022,11 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "how many, and for what time and date ?",
+          "text": "how many , and for what time and date ?",
           "tokens": [
             "how",
-            "many,",
+            "many",
+            ",",
             "and",
             "for",
             "what",
@@ -75324,7 +75332,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "how many tickets would you like and for which showing?",
+          "text": "how many tickets would you like and for which showing ?",
           "tokens": [
             "how",
             "many",
@@ -75335,7 +75343,8 @@
             "and",
             "for",
             "which",
-            "showing?"
+            "showing",
+            "?"
           ]
         },
         "user_acts": [
@@ -76515,9 +76524,10 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "ok, i will not be buying any tickets .",
+          "text": "ok , i will not be buying any tickets .",
           "tokens": [
-            "ok,",
+            "ok",
+            ",",
             "i",
             "will",
             "not",
@@ -79357,13 +79367,15 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "for what movie, what date, and how many ?",
+          "text": "for what movie , what date , and how many ?",
           "tokens": [
             "for",
             "what",
-            "movie,",
+            "movie",
+            ",",
             "what",
-            "date,",
+            "date",
+            ",",
             "and",
             "how",
             "many",
@@ -90876,7 +90888,7 @@
             "you",
             "want",
             "to",
-            "to",
+            "go",
             "to",
             "?"
           ]

@@ -1661,7 +1661,7 @@
               "start": 5
             }
           ],
-          "text": "do you want to buy 2 tickets?",
+          "text": "do you want to buy 2 tickets ?",
           "tokens": [
             "do",
             "you",
@@ -1669,7 +1669,8 @@
             "to",
             "buy",
             "2",
-            "tickets?"
+            "tickets",
+            "?"
           ]
         },
         "user_acts": [
@@ -1890,6 +1891,7 @@
             "are",
             "you",
             "going",
+            ",",
             "and",
             "on",
             "what",
@@ -7157,6 +7159,7 @@
             "are",
             "you",
             "going",
+            ",",
             "and",
             "on",
             "what",
@@ -7740,6 +7743,7 @@
             "are",
             "you",
             "going",
+            ",",
             "and",
             "on",
             "what",
@@ -22452,7 +22456,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "sure . how many tickets do you need and what time and date  would you like to go ?",
+          "text": "sure . how many tickets do you need and what time and date would you like to go ?",
           "tokens": [
             "sure",
             ".",
@@ -28677,6 +28681,7 @@
             "would",
             "you",
             "prefer",
+            ",",
             "and",
             "what",
             "time",
