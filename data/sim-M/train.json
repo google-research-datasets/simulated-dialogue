@@ -5910,7 +5910,7 @@
               "start": 3
             }
           ],
-          "text": "you want the 6:00 pm show , right?",
+          "text": "you want the 6:00 pm show , right ?",
           "tokens": [
             "you",
             "want",
@@ -67097,7 +67097,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "how many tickets do you need and on what date and what time ",
+          "text": "how many tickets do you need and on what date and what time",
           "tokens": [
             "how",
             "many",
@@ -92213,6 +92213,11 @@
               "exclusive_end": 9,
               "slot": "theatre_name",
               "start": 7
+            },
+            {
+              "exclusive_end": 12,
+              "slot": "time",
+              "start": 10
             }
           ],
           "text": "your tickets for the accountant tonight at shoreline theater at 7.15 pm have been purchased .",
@@ -101770,7 +101775,7 @@
               "start": 16
             },
             {
-              "exclusive_end": 19,
+              "exclusive_end": 20,
               "slot": "theatre_name",
               "start": 18
             }

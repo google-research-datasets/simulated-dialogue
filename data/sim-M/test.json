@@ -54941,7 +54941,7 @@
         ],
         "user_utterance": {
           "slots": [],
-          "text": "thanks ! ",
+          "text": "thanks !",
           "tokens": [
             "thanks",
             "!"
@@ -90888,7 +90888,7 @@
             "you",
             "want",
             "to",
-            "to",
+            "go",
             "to",
             "?"
           ]

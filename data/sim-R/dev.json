@@ -8684,7 +8684,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "sure . where, what type of food and for which mealtime ?",
+          "text": "sure . where , what type of food and for which mealtime ?",
           "tokens": [
             "sure",
             ".",
@@ -62969,7 +62969,7 @@
         ],
         "system_utterance": {
           "slots": [],
-          "text": "which mealtime would you like?",
+          "text": "which mealtime would you like ?",
           "tokens": [
             "which",
             "mealtime",
